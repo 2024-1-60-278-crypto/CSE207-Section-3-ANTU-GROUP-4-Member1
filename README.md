@@ -41,7 +41,7 @@
 
 ## Installation & Running the Program
 
-1. Install **CodeBlocks** with the **Mingw compiler** from [CodeBlocks](https://www.codeblocks.org/) or SourceForge.  
+1. Install **CodeBlocks** with the prebuilt **Mingw compiler** -'codeblocks-25.03mingw-setup.exe' from [CodeBlocks](https://www.codeblocks.org/) or SourceForge.  
 2. Download the `.c` file: `ECommerce2024-1-60-278.c`.  
 3. Open the file in CodeBlocks.  
 4. Click the **Build and Run** button (gear and play icon).  
