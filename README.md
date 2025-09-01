@@ -7,7 +7,7 @@
 
 ## Overview
 
->E-Commerce is becoming an integral part of daily life, with platforms like Amazon and Alibaba leading the market. This project implements a bare-bones **E-Commerce Order Processing System** in C, designed to manage customers, products, and orders efficiently using fundamental data structures.
+>E-Commerce is becoming an integral part of daily life, with platforms like Amazon and Alibaba leading the market. This project implements a bare-bones **E-Commerce Order Processing System** in C, designed to manage customers, products, and orders efficiently using various data structures.
 
 ---
 
