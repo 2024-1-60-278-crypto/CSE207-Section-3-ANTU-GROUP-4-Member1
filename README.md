@@ -32,7 +32,7 @@
 ---
 
 ## Dependencies
-
+- `Any C Compiler such as GCC`
 - `stdio.h`  
 - `stdlib.h`  
 - `string.h`  
